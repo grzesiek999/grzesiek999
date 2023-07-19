@@ -12,7 +12,7 @@
 
 ### 🌐 MyWebsite - 07.2023 - Completed
 #### My own website written by me when you can found information about me, my offert and contact with me.
-#### I hosting my website on my vps you can check my website there <a href="http://grzegorzpasich.pl/">↗</a>
+### I host my website on my vps you can check my website there <a href="http://grzegorzpasich.pl/">↗</a>
 #### Used technology:
 <ul>
   <li>JavaScript</li>
