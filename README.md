@@ -10,7 +10,7 @@
 
 ## 💻 Projects
 
-### MyWebsite - 07.2023 - Completed <a href="http://grzegorzpasich.pl/">↗</a>
+### 🌐 MyWebsite - 07.2023 - Completed <a href="http://grzegorzpasich.pl/">↗</a>
 #### My own website written by me when you can found information about me, my offert and contact with me.
 #### Used technology
 <ul>
@@ -22,7 +22,7 @@
 
 <br />
 
-### FitWebAppWDPAI - 06.2023 - Not completed
+### 🍎 FitWebAppWDPAI - 06.2023 - Not completed
 #### Simple project on my studies, the purpose of the project was write webservices for dietician and personal trainers where user can create account, login to your account, use the available services and end user sessions by logging out. 
 #### Used technology
 <ul>
