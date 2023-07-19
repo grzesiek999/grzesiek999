@@ -18,6 +18,7 @@
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
+  <li>NGINX</li>
   <li>Docker</li>
 </ul>
 
