@@ -9,5 +9,3 @@
 <br />
 
 ## My skills 💻
-
-<i class="fab fa-youtube"></i>
