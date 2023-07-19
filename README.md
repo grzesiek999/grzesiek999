@@ -10,5 +10,4 @@
 
 ## My skills 💻
 
-# ![image](https://github.com/grzesiek999/grzesiek999/assets/43814123/b5c13d0f-c0e9-470d-b8c6-fbfa6a0e90fe)
-
+![image](https://github.com/grzesiek999/grzesiek999/assets/43814123/f99729d9-5d0a-47b2-8d18-37f5ff8c3cca)
