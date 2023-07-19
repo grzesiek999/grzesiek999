@@ -23,8 +23,7 @@
 <br />
 
 ### FitWebAppWDPAI - 06.2023 - Not completed
-#### Simple project on my studies, the purpose of the project was write webservices for dietician and personal trainers
-where user can create account, login to your account, use the available services and end user sessions by logging out. 
+#### Simple project on my studies, the purpose of the project was write webservices for dietician and personal trainers where user can create account, login to your account, use the available services and end user sessions by logging out. 
 #### Used technology
 <ul>
   <li>PHP</li>
