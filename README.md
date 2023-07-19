@@ -5,3 +5,5 @@
 #### 🛠 I work as an International forwarder on a daily basis, that's why working with work staff is familiar to me, I know what is teamwork and i like work with others people.
 
 #### I like solving various problems, my strengths are creativity, communicativeness, independence and good organization of work and achieving the set purposes.
+
+## My skills
