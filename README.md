@@ -6,4 +6,5 @@
 
 #### I like solving various problems, my strengths are creativity, communicativeness, independence and good organization of work and achieving the set purposes.
 <br />
+
 ## My skills
