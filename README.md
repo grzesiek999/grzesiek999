@@ -10,7 +10,7 @@
 
 ## 💻 Projects
 
-### MyWebsite - 07.2023 - Completed <a href ="grzegorzpasich.pl">➡</a>
+### MyWebsite - 07.2023 - Completed <a href="http://grzegorzpasich.pl/">➡</a>
 #### My own website written by me when you can found information about me, my offert and contact with me.
 #### Used technology
 <ul>
