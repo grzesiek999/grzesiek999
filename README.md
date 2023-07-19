@@ -9,3 +9,11 @@
 <br />
 
 ## 💻 Projects
+
+### MyWebsite - 07.2023 Completed
+#### My own website written by me when you can found information about me, my offert and contact with me
+#### Used technology
+<ul>
+  <li>JS</li>
+  <li>HTML5</li>
+</ul>
