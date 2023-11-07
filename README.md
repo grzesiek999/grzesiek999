@@ -11,7 +11,7 @@ I like solving various problems, my strengths are creativity, communicativeness,
 ## 💻 Projects
 
 ### 🌐 Fit-Service-Project - in progress
-....
+The assumption of the project is create complete Web application for remote dietary support.
 
 Used technology:
 <ul>
@@ -20,6 +20,7 @@ Used technology:
   <li>SCSS</li>
   <li>Django</li>
   <li>PostgreSQL</li>
+  <li>Prototype in Figma</li>
 </ul>
 
 ##
