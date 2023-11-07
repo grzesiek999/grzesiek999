@@ -14,6 +14,9 @@ I like solving various problems, my strengths are creativity, communicativeness,
 My BEng Thesis for first-stage studies.
 
 The assumption of the project is create complete Web application for remote dietary support.
+Web application created for dietician and their clients, dietician can remote take care you client and make diets plan for them. 
+Clients can remote buy diets plans, get this from yours dietician and make raports with yours parameters and progress. 
+Clients can use a calculator calories to save and check how many calories and meals they eat of the day.
 
 Used technology:
 <ul>
