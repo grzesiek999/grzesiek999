@@ -10,18 +10,16 @@ I like solving various problems, my strengths are creativity, communicativeness,
 
 ## 💻 Projects
 
-### 🌐 MyWebsite - 07.2023 - Completed
-I host my website on my vps, you can visit my website there <a href="http://grzegorzpasich.pl/">↗</a>
-
-My own website when you can found information about me, my offert and contact with me.
+### 🌐 Fit-Service-Project - in progress
+....
 
 Used technology:
 <ul>
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>NGINX</li>
-  <li>Docker</li>
+  <li>React</li>
+  <li>TypeScript</li>
+  <li>SCSS</li>
+  <li>Django</li>
+  <li>PostgreSQL</li>
 </ul>
 
 ##
