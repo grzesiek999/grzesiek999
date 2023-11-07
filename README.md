@@ -10,7 +10,9 @@ I like solving various problems, my strengths are creativity, communicativeness,
 
 ## 💻 Projects
 
-### 🌐 Fit-Service-Project - in progress
+### 🎓 Fit-Service-Project - in progress
+My BEng Thesis for first-stage studies.
+
 The assumption of the project is create complete Web application for remote dietary support.
 
 Used technology:
