@@ -31,7 +31,7 @@ Used technology:
 
 ##
 
-### 🎓 client-restaurant-system-managementclient-restaurant-system-management - in progress
+###  client-restaurant-system-managementclient-restaurant-system-management - in progress
 
 Used technology:
 <ul>
