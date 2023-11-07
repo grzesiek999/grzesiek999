@@ -26,6 +26,22 @@ Used technology:
 
 ##
 
+### 🌐 MyWebsite - 07.2023 - Completed
+I host my website on my vps, you can visit my website there <a href="http://grzegorzpasich.pl/">↗</a>
+
+My own website when you can found information about me, my offert and contact with me.
+
+Used technology:
+<ul>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>NGINX</li>
+  <li>Docker</li>
+</ul>
+
+##
+
 ### 🍎 FitWebAppWDPAI - 06.2023 - Not completed
 Simple project on my studies, the purpose of the project was write webservices for dietician and personal trainers where user can create account, login to your account, use the available services and end user sessions by logging out.
 
