@@ -32,6 +32,7 @@ Used technology:
 ##
 
 ###  client-restaurant-system-managementclient-restaurant-system-management - in progress
+Frontend create for our team project - web application for restaurant management.
 
 Used technology:
 <ul>
