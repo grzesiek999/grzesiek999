@@ -17,7 +17,7 @@ The assumption of the project is create complete Web application for remote diet
 
 Web application created for dietician and their clients, dietician can remote take care you client and make diets plan for them. 
 Clients can remote buy diets plans, get this from yours dietician and make raports with yours parameters and progress. 
-Clients can use a calculator calories to save and check how many calories and meals they eat of the day.
+Clients can use a calculator calories to check how many calories they eat of the day and keep a diary of your meals.
 
 Used technology:
 <ul>
