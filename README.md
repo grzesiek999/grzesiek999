@@ -34,6 +34,10 @@ Used technology:
 ###  client-restaurant-system-managementclient-restaurant-system-management - in progress
 Frontend create for our team project - web application for restaurant management.
 
+Team project was to build a complete web application for restaurant management.
+Me and ... was responsible for create frontend.
+Two people was responsible for create backend.
+
 Used technology:
 <ul>
   <li>React</li>
