@@ -6,6 +6,11 @@ I like solving various problems, my strengths are creativity, communicativeness,
 
 ### 🛠 My stack: 
 <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/84356648-58a9-45fa-85c5-aab98272adea" width=40 height=40>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/6b4cfb68-87d9-47e7-9919-eca74fb8c7c2" width=40 height=40>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/07a69ba0-261a-48f2-9cb8-8d59dbf9daf3" width=40 height=40>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b65eb0db-62a5-4d12-9d72-1cee5a98c609" width=40 height=40>
+
+
 
 
 <br />
