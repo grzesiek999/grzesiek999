@@ -31,7 +31,8 @@ Used technology:
 
 ##
 
-###  client-restaurant-system-managementclient-restaurant-system-management - in progress
+### ![image](https://github.com/grzesiek999/grzesiek999/assets/43814123/ec8325e3-9a00-44eb-8d89-80a051edaed0)
+ client-restaurant-system-managementclient-restaurant-system-management - in progress
 Frontend create for our team project - web application for restaurant management.
 
 Team project was to build a complete web application for restaurant management.
