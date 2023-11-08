@@ -35,6 +35,8 @@ Used technology:
 Frontend create for our team project - web application for restaurant management.
 
 Team project was to build a complete web application for restaurant management.
+While we making this team project we divided us on smaller teams. 
+To my job was creating frontend part to our complete web application for management restaurant.
 
 Used technology:
 <ul>
