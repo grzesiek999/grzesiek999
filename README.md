@@ -66,7 +66,7 @@ Used technology:
 ##
 
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b5b70abc-c1e4-4c9b-b816-76e5724d0a3e" width=25 height=25> MyWebsite - 07.2023 - Completed
-I host my website on my vps, you can visit my website there <a href="http://grzegorzpasich.pl/"><img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/67a1142d-eebf-4856-9502-e6a4aff1d693" ></a>
+I host my website on my vps, you can visit my website there <a href="http://grzegorzpasich.pl/"><img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/67a1142d-eebf-4856-9502-e6a4aff1d693" width=20 height=20></a>
 
 My own website when you can found information about me, my offert and contact with me.
 
