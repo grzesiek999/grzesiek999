@@ -34,9 +34,6 @@ Used technology:
 ###  client-restaurant-system-managementclient-restaurant-system-management - in progress
 Frontend create for our team project - web application for restaurant management.
 
-![alt text](https://grzegorzpasich.pl/public/images/photos/zdjecie.jpg)
-
-
 Team project was to build a complete web application for restaurant management.
 
 Used technology:
