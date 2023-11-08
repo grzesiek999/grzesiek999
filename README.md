@@ -20,6 +20,8 @@ I like solving various problems, my strengths are creativity, communicativeness,
 <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/20095041-70a9-485a-8752-b59b25e00f10" width=50 height=50>
 <br />
 <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/11eb1aac-04c5-4eea-9edc-a88176c23f75" width=50 height=50>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/c677ec1f-e57b-4b9b-b2b9-fa87008e5bc9" width=50 height=50> 
+
 
 
 
