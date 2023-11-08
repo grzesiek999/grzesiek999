@@ -81,7 +81,7 @@ Used technology:
 
 ##
 
-### 🍎 FitWebAppWDPAI - 06.2023 - Not completed
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/3c34cb84-4360-4cd7-ae2e-fb4d5c8b854f" width=25 height=25> FitWebAppWDPAI - 06.2023 - Not completed
 Simple project on my studies, the purpose of the project was write webservices for dietician and personal trainers where user can create account, login to your account, use the available services and end user sessions by logging out.
 
 Used technology:
