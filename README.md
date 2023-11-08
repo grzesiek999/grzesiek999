@@ -4,7 +4,7 @@ My name is Grzesiek, I am student of third year IT on Cracow University of Techn
 
 I like solving various problems, my strengths are creativity, communicativeness, independence and good organization of work and achieving the set purposes. 😅
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b667719f-44e0-4ba5-bf68-d7c91a33a022" width=30 height=30> My stack: 
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b667719f-44e0-4ba5-bf68-d7c91a33a022" width=40 height=40> My stack: 
 <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/84356648-58a9-45fa-85c5-aab98272adea" width=50 height=50>
 <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/6b4cfb68-87d9-47e7-9919-eca74fb8c7c2" width=50 height=50>
 <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/07a69ba0-261a-48f2-9cb8-8d59dbf9daf3" width=50 height=50>
