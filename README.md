@@ -24,6 +24,8 @@ I like solving various problems, my strengths are creativity, communicativeness,
 
 <br />
 
+<br />
+
 ## <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=35 height=35> Projects
 
 ### 🎓 Fit-Service-Project - in progress
