@@ -5,13 +5,14 @@ My name is Grzesiek, I am student of third year IT on Cracow University of Techn
 I like solving various problems, my strengths are creativity, communicativeness, independence and good organization of work and achieving the set purposes. 😅
 
 ### 🛠 My stack: 
-<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/84356648-58a9-45fa-85c5-aab98272adea" width=40 height=40>
-<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/6b4cfb68-87d9-47e7-9919-eca74fb8c7c2" width=40 height=40>
-<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/07a69ba0-261a-48f2-9cb8-8d59dbf9daf3" width=40 height=40>
-<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b7bb973d-c8da-4a04-a8c3-b22b85c1828c" width=40 height=40>
-<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/a383905c-dab3-43be-a7be-4427001b9978" width=40 height=40>
-<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/4269f958-c572-4a43-b4b2-eb8afd23fb5e" width=40 height=40>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/84356648-58a9-45fa-85c5-aab98272adea" width=50 height=50>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/6b4cfb68-87d9-47e7-9919-eca74fb8c7c2" width=50 height=50>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/07a69ba0-261a-48f2-9cb8-8d59dbf9daf3" width=50 height=50>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b7bb973d-c8da-4a04-a8c3-b22b85c1828c" width=50 height=50>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/a383905c-dab3-43be-a7be-4427001b9978" width=50 height=50>
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/4269f958-c572-4a43-b4b2-eb8afd23fb5e" width=50 height=50>
 <br />
+<img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/f3f6f431-9781-413f-be31-5410210d2a58" width=50 height=50>
 <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/8defd980-f4c9-4a83-9560-72e8f22742a0" width=50 height=50>
 
 
