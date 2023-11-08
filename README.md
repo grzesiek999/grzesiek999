@@ -5,6 +5,7 @@ My name is Grzesiek, I am student of third year IT on Cracow University of Techn
 I like solving various problems, my strengths are creativity, communicativeness, independence and good organization of work and achieving the set purposes. 😅
 
 ### 🛠 My stack: 
+![image](https://github.com/grzesiek999/grzesiek999/assets/43814123/84356648-58a9-45fa-85c5-aab98272adea)
 
 
 <br />
