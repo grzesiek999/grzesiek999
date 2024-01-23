@@ -49,22 +49,6 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/8066fdbf-fa30-48b7-b274-b23b493d1f47" width=25 height=25> client-restaurant-system-managementclient-restaurant-system-management - in progress
-Frontend create for our team project - web application for restaurant management.
-
-Team project was to build a complete web application for restaurant management.
-While we making this team project we divided us on smaller teams. 
-To my job was creating frontend part to our web application.
-
-Used technology:
-<ul>
-  <li>React</li>
-  <li>TypeScript</li>
-  <li>SCSS</li>
-</ul>
-
-##
-
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b5b70abc-c1e4-4c9b-b816-76e5724d0a3e" width=25 height=25> MyWebsite - 07.2023 - Completed
 I host my website on my vps, you can visit there <a href="http://grzegorzpasich.pl/"><img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/67a1142d-eebf-4856-9502-e6a4aff1d693" width=25 height=25></a>
 
