@@ -44,7 +44,7 @@ Used technology:
   <li>SCSS</li>
   <li>Django</li>
   <li>PostgreSQL</li>
-  <li>Prototype in Figma</li>
+  <li>Figma</li>
 </ul>
 
 ##
@@ -68,11 +68,11 @@ Simple project on my studies, the purpose of the project was write webservices f
 
 Used technology:
 <ul>
-  <li>Prototype in Figma</li>
   <li>PHP</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
   <li>PostgreSQL</li>
   <li>Docker</li>
+  <li>Figma</li>
 </ul>
