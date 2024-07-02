@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Grzesiek, I am student of third year IT on Cracow University of Technology. I'm interested in programming and IT field for three years that's why i study IT. 😎
+My name is Grzesiek, I graduated in engineering studies in computer science at the Krakow University of Technology. I'm interested in programming and IT field for four years. 😎
 
 I like solving various problems, my strengths are creativity, communicativeness, independence and good organization of work and achieving the set purposes. 😅
 
