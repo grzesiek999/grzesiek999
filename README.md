@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Grzesiek, I graduated in engineering studies in computer science at the Krakow University of Technology. I'm interested in programming and IT field for four years. 😎
+My name is Grzesiek, I graduated in engineering studies in computer science at the Krakow University of Technology. I'm interested in computer science for four years. 😎
 
 I like solving various problems, my strengths are creativity, communicativeness, independence and good organization of work and achieving the set purposes. 😅
 
@@ -31,11 +31,10 @@ I like solving various problems, my strengths are creativity, communicativeness,
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25> Fit-Service-Project - 06.2024 - Completed
 My Engineering Thesis for first-stage studies.
 
-The assumption of the project is create complete Web application for remote dietary support.
+The assumption of the project is create complete web application for remote dietary support.
 
-Web application created for dietician and their clients, dietician can remote take care you client and make diets plan for them. 
-Clients can remote buy diets plans, get this from yours dietician and make raports with yours parameters and progress. 
-Clients can use a calculator calories to check how many calories they eat of the day and keep a diary of your meals.
+Web application was created for dieticians and them mentees. Dieticians can remote take care mentees, make diets plan and check progress them mentees.
+Clients can buy diets plans, make progress reports, check food products in database and to use with different calculators. 
 
 Used technology:
 <ul>
