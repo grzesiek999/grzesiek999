@@ -29,7 +29,7 @@ I like solving various problems, my strengths are creativity, communicativeness,
 ## <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> Projects
 
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25> Fit-Service-Project - 06.2024 - Completed
-My BEng Thesis for first-stage studies.
+My Engineering Thesis for first-stage studies.
 
 The assumption of the project is create complete Web application for remote dietary support.
 
