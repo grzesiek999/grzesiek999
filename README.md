@@ -63,7 +63,7 @@ Used technology:
 ##
 
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/3c34cb84-4360-4cd7-ae2e-fb4d5c8b854f" width=25 height=25> FitWebAppWDPAI - 06.2023 - Not completed
-Project for studies from "Entry to Programming Web Applications" subject. Application wrote by using care technologies without frameworks.
+Project for studies from "Entry to Programming Web Applications" subject. Application wrote by using core technologies without frameworks.
 
 Used technology:
 <ul>
