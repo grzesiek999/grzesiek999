@@ -29,13 +29,8 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> Projects
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25> Fit-Service-Project - 06.2024 - Completed
-My Engineering Thesis for first-stage studies.
-
-The assumption of the project is create complete web application for remote dietary support.
-
-Web application was created for dieticians and them mentees. Dieticians can remote take care mentees, make diets plan and check progress them mentees.
-Clients can buy diets plans, make progress reports, check food products in database and to use with different calculators. 
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25>  ztbd_project - 06.2025 - Completed
+ 
 
 Used technology:
 <ul>
@@ -49,7 +44,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25>  ztp_frontapp - 06.2025 - Not completed
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25>  ztp_frontapp - 01.2025 - Not completed
 
 
 Used technology:
