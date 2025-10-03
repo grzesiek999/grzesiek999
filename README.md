@@ -29,7 +29,7 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> Projects
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25>  ztbd_project - 06.2025 - Completed
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25>  ztbd_project - 01.2025 - Completed
  
 
 Used technology:
@@ -39,7 +39,7 @@ Used technology:
   <li>SCSS</li>
   <li>Django</li>
   <li>PostgreSQL</li>
-  <li>Figma</li>
+  <li>MongoDB</li>
 </ul>
 
 ##
