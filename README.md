@@ -29,22 +29,15 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> Projects
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25> Fit-Service-Project - 06.2024 - Completed
-My Engineering Thesis for first-stage studies.
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25> Portfolio - in progress.
 
-The assumption of the project is create complete web application for remote dietary support.
-
-Web application was created for dieticians and them mentees. Dieticians can remote take care mentees, make diets plan and check progress them mentees.
-Clients can buy diets plans, make progress reports, check food products in database and to use with different calculators. 
+My portfolio created by using frameworks.
 
 Used technology:
 <ul>
   <li>React</li>
   <li>TypeScript</li>
   <li>SCSS</li>
-  <li>Django</li>
-  <li>PostgreSQL</li>
-  <li>Figma</li>
 </ul>
 
 ##
@@ -71,7 +64,7 @@ Used technology:
 
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b5b70abc-c1e4-4c9b-b816-76e5724d0a3e" width=25 height=25> MyWebsite - 07.2023 - Completed
 
-My portfolio was created by using core technologies without frameworks.
+My portfolio created by using core technologies.
 
 Used technology:
 <ul>
