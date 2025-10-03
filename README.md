@@ -2,7 +2,7 @@
 
 My name is Grzesiek, I am a graduate of Computer Science at Cracow University of Technology, currently pursuing a Master’s degree with a specialization in Cybersecurity. 😎
 
-Code, coffee, and curiosity ☕💻. Passionate about cybersecurity and open to new challenges.
+Code, coffee, and curiosity ☕💻. Just having fun with technology and learning every day.
 
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b667719f-44e0-4ba5-bf68-d7c91a33a022" width=40 height=40> My stack: 
 <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/84356648-58a9-45fa-85c5-aab98272adea" width=50 height=50>
