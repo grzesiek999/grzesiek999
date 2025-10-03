@@ -37,7 +37,7 @@ Used technology:
   <li>React</li>
   <li>TypeScript</li>
   <li>SCSS</li>
-  <li>Django</li>
+  <li>FastAPI</li>
   <li>PostgreSQL</li>
   <li>MongoDB</li>
 </ul>
