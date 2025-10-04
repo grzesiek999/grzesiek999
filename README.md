@@ -29,7 +29,7 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> Projects
 
-### <img src="https://github.com/user-attachments/assets/0efec13e-7632-4c3d-a16d-67549c23344a" width=25 height=25>  ztbd_project - 01.2025 - Completed
+### <img src="https://github.com/user-attachments/assets/0efec13e-7632-4c3d-a16d-67549c23344a" width=50 height=50>  ztbd_project - 01.2025 - Completed
 
 Teamwork project for a studies subject Advanced Database Technologies.
 <br />
