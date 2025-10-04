@@ -29,9 +29,10 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> Projects
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25>  ztbd_project - 01.2025 - Completed
+### <img src="" width=25 height=25>  ztbd_project - 01.2025 - Completed
 
 Teamwork project for a studies subject Advanced Database Technologies.
+<br />
 Application which compare queries times in PostgreSQL vs MongoDB.
 
 Used technology:
@@ -46,7 +47,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25>  ztp_frontapp - 01.2025 - Not completed
+### <img src="" width=25 height=25>  ztp_frontapp - 01.2025 - Not completed
 
 Project for a studies subject Advanced Programming Technologies.
 <br />
@@ -82,7 +83,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25> Portfolio - in progress.
+### <img src="" width=25 height=25> Portfolio - in progress.
 
 My portfolio created by using frameworks.
 
