@@ -29,7 +29,7 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=40 height=40> Projects
 
-### <img src="https://github.com/user-attachments/assets/7c3ff209-a348-42ac-8316-76fd4d49b7c5" width=100 height=30> &nbsp;&nbsp;  ztbd_project - 01.2025 - Completed
+### <img src="https://github.com/user-attachments/assets/7c3ff209-a348-42ac-8316-76fd4d49b7c5" width=100 height=30> &nbsp;  ztbd_project - 01.2025 - Completed
 
 Teamwork project for a studies subject Advanced Database Technologies.
 <br />
@@ -47,7 +47,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/user-attachments/assets/5dd2ba10-ce45-4fa6-9b35-c5465e5af2ea" width=30 height=30>  ztp_frontapp - 01.2025 - Not completed
+### <img src="https://github.com/user-attachments/assets/5dd2ba10-ce45-4fa6-9b35-c5465e5af2ea" width=30 height=30> &nbsp; ztp_frontapp - 01.2025 - Not completed
 
 Project for a studies subject Advanced Programming Technologies.
 <br />
@@ -63,7 +63,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=30 height=30> Fit-Service-Project - 06.2024 - Completed
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=30 height=30> &nbsp; Fit-Service-Project - 06.2024 - Completed
 My Engineering Thesis for first-stage studies.
 
 The assumption of the project is create complete web application for remote dietary support.
@@ -83,7 +83,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> Portfolio - in progress.
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> &nbsp; Portfolio - in progress.
 
 My portfolio created by using frameworks.
 
@@ -96,7 +96,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b5b70abc-c1e4-4c9b-b816-76e5724d0a3e" width=30 height=30> MyWebsite - 07.2023 - Completed
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b5b70abc-c1e4-4c9b-b816-76e5724d0a3e" width=30 height=30> &nbsp; MyWebsite - 07.2023 - Completed
 
 My portfolio created by using core technologies.
 
@@ -110,7 +110,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/3c34cb84-4360-4cd7-ae2e-fb4d5c8b854f" width=30 height=30> FitWebAppWDPAI - 06.2023 - Not completed
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/3c34cb84-4360-4cd7-ae2e-fb4d5c8b854f" width=30 height=30> &nbsp; FitWebAppWDPAI - 06.2023 - Not completed
 Project for studies from "Entry to Programming Web Applications" subject. Application wrote by using core technologies without frameworks.
 
 Used technology:
