@@ -27,7 +27,7 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 <br />
 
-## <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=30 height=30> Projects
+## <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=35 height=35> Projects
 
 ### <img src="https://github.com/user-attachments/assets/7c3ff209-a348-42ac-8316-76fd4d49b7c5" width=100 height=30>  ztbd_project - 01.2025 - Completed
 
