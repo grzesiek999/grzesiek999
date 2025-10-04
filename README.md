@@ -83,7 +83,7 @@ Used technology:
 
 ##
 
-### <img src="" width=25 height=25> Portfolio - in progress.
+### <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=25 height=25> Portfolio - in progress.
 
 My portfolio created by using frameworks.
 
