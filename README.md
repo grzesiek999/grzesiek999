@@ -47,7 +47,7 @@ Used technology:
 
 ##
 
-### <img src="" width=25 height=25>  ztp_frontapp - 01.2025 - Not completed
+### <img src="https://github.com/user-attachments/assets/5dd2ba10-ce45-4fa6-9b35-c5465e5af2ea" width=35 height=35>  ztp_frontapp - 01.2025 - Not completed
 
 Project for a studies subject Advanced Programming Technologies.
 <br />
