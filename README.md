@@ -46,8 +46,9 @@ Used technology:
 
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=25 height=25>  ztp_frontapp - 01.2025 - Not completed
 
-React application for a remote library service.
 Project for a studies subject Advanced Programming Technologies.
+<br />
+Teamwork which was rel on build library website. In my task was implemt frontend part this project.
 
 Used technology:
 <ul>
