@@ -27,7 +27,7 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 <br />
 
-## <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> Projects
+## <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=30 height=30> Projects
 
 ### <img src="https://github.com/user-attachments/assets/7c3ff209-a348-42ac-8316-76fd4d49b7c5" width=100 height=30>  ztbd_project - 01.2025 - Completed
 
@@ -83,7 +83,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=25 height=25> Portfolio - in progress.
+### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=25 height=25> Portfolio - in progress.
 
 My portfolio created by using frameworks.
 
