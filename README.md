@@ -83,7 +83,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> &nbsp; Portfolio - in progress.
+<!--### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/850b625d-e2eb-4790-9ed8-28a9a2834580" width=30 height=30> &nbsp; Portfolio - in progress.
 
 My portfolio created by using frameworks.
 
@@ -94,7 +94,7 @@ Used technology:
   <li>SCSS</li>
 </ul>
 
-##
+##-->
 
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/b5b70abc-c1e4-4c9b-b816-76e5724d0a3e" width=30 height=30> &nbsp; MyWebsite - 07.2023 - Completed
 
