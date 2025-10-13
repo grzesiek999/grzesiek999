@@ -44,7 +44,11 @@ Used technology:
 
 Teamwork project for a studies subject Advanced Database Technologies.
 <br />
-Application which compare queries times in PostgreSQL vs MongoDB.
+Application which compare ciphers RSA, 3DES, AES in scope:
+<ol>
+  <li>Key generating time for groving users number</li>
+  <li>Encrypting and decrypting time for groving message size</li>
+</ol>
 
 Used technology:
 <ul>
