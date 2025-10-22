@@ -29,7 +29,7 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=40 height=40> Projects
 
-### <img src="https://github.com/user-attachments/assets/a15ec088-b0b7-43c1-ac98-2140b76cf0a4" width=100 height=30> &nbsp;  RSA_vs_3DES_vs_AES - in progress
+### <img src="https://github.com/user-attachments/assets/a15ec088-b0b7-43c1-ac98-2140b76cf0a4" width=30 height=30> &nbsp;  RSA_vs_3DES_vs_AES - in progress
 
 Application which compare ciphers RSA, 3DES, AES in scope:
 <ol>
