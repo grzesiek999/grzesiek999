@@ -74,9 +74,9 @@ Used technology:
   <li>TypeScript</li>
   <li>SCSS</li>
   <li>Figma</li>
-</ul>-->
+</ul>
 
-##
+##-->
 
 ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/2dfe54f6-3b65-4080-a416-634f9f3fb8e5" width=30 height=30> &nbsp; Fit-Service-Project - 06.2024 - Completed
 My Engineering Thesis for first-stage studies.
