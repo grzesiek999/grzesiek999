@@ -62,7 +62,7 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/user-attachments/assets/5dd2ba10-ce45-4fa6-9b35-c5465e5af2ea" width=30 height=30> &nbsp; ztp_frontapp - 01.2025 - Not completed
+<!--### <img src="https://github.com/user-attachments/assets/5dd2ba10-ce45-4fa6-9b35-c5465e5af2ea" width=30 height=30> &nbsp; ztp_frontapp - 01.2025 - Not completed
 
 Project for a studies subject Advanced Programming Technologies.
 <br />
@@ -74,7 +74,7 @@ Used technology:
   <li>TypeScript</li>
   <li>SCSS</li>
   <li>Figma</li>
-</ul>
+</ul>-->
 
 ##
 
@@ -123,9 +123,7 @@ Used technology:
   <li>Docker</li>
 </ul>
 
-##
-
-### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/3c34cb84-4360-4cd7-ae2e-fb4d5c8b854f" width=30 height=30> &nbsp; FitWebAppWDPAI - 06.2023 - Not completed
+<!-- ### <img src="https://github.com/grzesiek999/grzesiek999/assets/43814123/3c34cb84-4360-4cd7-ae2e-fb4d5c8b854f" width=30 height=30> &nbsp; FitWebAppWDPAI - 06.2023 - Not completed
 Project for studies from "Entry to Programming Web Applications" subject. Application wrote by using core technologies without frameworks.
 
 Used technology:
@@ -137,4 +135,4 @@ Used technology:
   <li>PostgreSQL</li>
   <li>Docker</li>
   <li>Figma</li>
-</ul>
+</ul> -->
