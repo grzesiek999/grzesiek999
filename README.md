@@ -44,6 +44,21 @@ Used technology:
 
 ##
 
+### <img src="https://github.com/user-attachments/assets/a15ec088-b0b7-43c1-ac98-2140b76cf0a4" width=30 height=30> &nbsp;  RSA_vs_3DES_vs_AES - Completed
+
+Application which compare ciphers RSA, 3DES, AES in scope:
+<ol>
+  <li>Key generating time for groving users number</li>
+  <li>Encrypting and decrypting time for groving message size</li>
+</ol>
+
+Used technology:
+<ul>
+  <li>Python</li>
+</ul>
+
+##
+
 ### <img src="https://github.com/user-attachments/assets/7c3ff209-a348-42ac-8316-76fd4d49b7c5" width=100 height=30> &nbsp;  ztbd_project - 01.2025 - Completed
 
 Teamwork project for a studies subject Advanced Database Technologies.
