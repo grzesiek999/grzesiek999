@@ -31,15 +31,14 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ### <img src="https://github.com/user-attachments/assets/a15ec088-b0b7-43c1-ac98-2140b76cf0a4" width=30 height=30> &nbsp;  RSA_vs_3DES_vs_AES - Completed
 
-Application which compare ciphers RSA, 3DES, AES in scope:
-<ol>
-  <li>Key generating time for groving users number</li>
-  <li>Encrypting and decrypting time for groving message size</li>
-</ol>
+My Master Thesis for second-stage studies.
+
+Application which 
 
 Used technology:
 <ul>
   <li>Python</li>
+  <li>Shell</li>
 </ul>
 
 ##
