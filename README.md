@@ -29,7 +29,7 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=40 height=40> Projects
 
-### <img src="https://github.com/user-attachments/assets/5ae63c59-1ce5-4f74-baec-d34fe823ec94" width=30 height=30> &nbsp;  ddos-mitigation-analysis - Completed
+### <img src="https://github.com/user-attachments/assets/9c063f0e-7044-446a-b7df-a7e5ca645639" width=30 height=30> &nbsp;  ddos-mitigation-analysis - Completed
 
 My Master Thesis for second-stage studies.
 
