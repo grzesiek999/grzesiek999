@@ -29,11 +29,16 @@ Code, coffee, and curiosity ☕💻. Just having fun with technology and learnin
 
 ## <img src="https://github.com/user-attachments/assets/3114bf5d-8b40-4c09-be18-5a689866a588" width=40 height=40> Projects
 
-### <img src="https://github.com/user-attachments/assets/a15ec088-b0b7-43c1-ac98-2140b76cf0a4" width=30 height=30> &nbsp;  RSA_vs_3DES_vs_AES - Completed
+### <img src="" width=30 height=30> &nbsp;  ddos-mitigation-analysis - Completed
 
 My Master Thesis for second-stage studies.
 
-Application which 
+Application to test DDoS attacks. Were implemented three main types of attacks: 
+<ul>
+  <li>HTTP Flood</li>
+  <li>SYN Flood</li>
+  <li>UDP Flood</li>
+</ul>
 
 Used technology:
 <ul>
