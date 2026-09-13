@@ -48,6 +48,25 @@ Used technology:
 
 ##
 
+### <img src="https://github.com/user-attachments/assets/9c063f0e-7044-446a-b7df-a7e5ca645639" width=30 height=30> &nbsp;  ddos-mitigation-analysis - Completed
+
+My Master Thesis for second-stage studies.
+
+Application to test DDoS attacks. Were implemented three main types of attacks: 
+<ul>
+  <li>HTTP Flood</li>
+  <li>SYN Flood</li>
+  <li>UDP Flood</li>
+</ul>
+
+Used technology:
+<ul>
+  <li>Python</li>
+  <li>Shell</li>
+</ul>
+
+##
+
 ### <img src="https://github.com/user-attachments/assets/a15ec088-b0b7-43c1-ac98-2140b76cf0a4" width=30 height=30> &nbsp;  RSA_vs_3DES_vs_AES - Completed
 
 Application which compare ciphers RSA, 3DES, AES in scope:
