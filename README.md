@@ -52,12 +52,7 @@ Used technology:
 
 Official website for GP IT Solutions.
 
-Responsive business website presenting IT services offered by GP IT Solutions. The application includes several main sections: 
-<ul>
-  <li>HTTP Flood</li>
-  <li>SYN Flood</li>
-  <li>UDP Flood</li>
-</ul>
+Responsive business website presenting IT services offered by GP IT Solutions.
 The website also includes responsive design, SEO optimization and backend integration for contact form handling.
 
 Used technology:
