@@ -48,7 +48,7 @@ Used technology:
 
 ##
 
-### <img src="" width=30 height=30> &nbsp;  gp-solutions-website - Completed
+### <img src="https://github.com/user-attachments/assets/5e4d1783-2af8-473f-9734-4cfa203e0e53" width=30 height=30> &nbsp;  gp-solutions-website - Completed
 
 Official website for GP IT Solutions.
 
