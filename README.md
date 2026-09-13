@@ -48,21 +48,28 @@ Used technology:
 
 ##
 
-### <img src="https://github.com/user-attachments/assets/9c063f0e-7044-446a-b7df-a7e5ca645639" width=30 height=30> &nbsp;  ddos-mitigation-analysis - Completed
+### <img src="" width=30 height=30> &nbsp;  gp-solutions-website - Completed
 
-My Master Thesis for second-stage studies.
+Official website for GP IT Solutions.
 
-Application to test DDoS attacks. Were implemented three main types of attacks: 
+Responsive business website presenting IT services offered by GP IT Solutions. The application includes several main sections: 
 <ul>
   <li>HTTP Flood</li>
   <li>SYN Flood</li>
   <li>UDP Flood</li>
 </ul>
+The website also includes responsive design, SEO optimization and backend integration for contact form handling.
 
 Used technology:
 <ul>
-  <li>Python</li>
-  <li>Shell</li>
+  <li>React</li>
+  <li>TypeScript</li>
+  <li>Vite</li>
+  <li>SCSS Modules</li>
+  <li>Cloudflare Pages</li>
+  <li>Java</li>
+  <li>Spring Boot</li>
+  <li>Microsoft Azure App Service</li>
 </ul>
 
 ##
